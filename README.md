@@ -44,13 +44,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=yung-megafone&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3%22%20height=%22220%22%20alt=%22streak%20graph"  />
-</div>
-
-###
