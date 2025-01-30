@@ -24,7 +24,13 @@
 
 ###
 
-<p align="left">I'm yung-megafone from Chicago.<br><br>- 🔭 I’m working as a student.<br>- 📚 I'm currently learning Python and Computer Science.<br>- ⚡ In my free time I fiddle with radios and listen to the police scanner. I also enjoy playing games, fixing cars, and taking photographs..</p>
+<p align="left">
+  I'm <strong>yung-megafone</strong> from Chicago.<br><br>
+  - 🔭 Currently a student with a passion for technology and automation.<br>
+  - 📚 Learning <strong>Python</strong>, <strong>JavaScript</strong>, and <strong>Computer Science</strong>, with a focus on scripting, workflow optimization, and problem-solving.<br>
+  - ⚡ In my free time, I tinker with <strong>radios</strong>, monitor <strong>police scanners</strong>, and explore <strong>signal processing</strong>.<br>
+  - 🎮 I enjoy <strong>gaming</strong>, <strong>fixing cars</strong>, and <strong>photography</strong>, always looking for ways to blend tech with creativity.<br>
+</p>
 
 ###
 
