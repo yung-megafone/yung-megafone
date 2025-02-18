@@ -44,7 +44,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" alt="Javascript Logo" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" height="40" alt="Arduino Logo" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="40" alt="C Logo" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c#/c#-original.svg" height="40" alt="C# Logo" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="40" alt="C# Logo" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" height="40" alt="Bash Logo" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo" />
