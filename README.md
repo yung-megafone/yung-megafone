@@ -40,13 +40,19 @@
 
 <div align="left">
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="40" alt="Python Logo" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40" alt="Python Logo" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" alt="Javascript Logo" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" height="40" alt="Arduino Logo" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" height="40" alt="Arduino Logo" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="40" alt="C Logo" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c#/c#-original.svg" height="40" alt="C# Logo" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" height="40" alt="Bash Logo" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5 Logo" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3 Logo" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="40" alt="Linux Logo" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry PI Logo" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40" alt="Typescript Logo" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code Logo" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg" height="40" alt="Visual Basic Logo" />
 </div>
 
 ###
