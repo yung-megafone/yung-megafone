@@ -41,6 +41,8 @@
 <div align="left">
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="40" alt="Python Logo" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" alt="Javascript Logo" />
+  
 </div>
 
 ###
