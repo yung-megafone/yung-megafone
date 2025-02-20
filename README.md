@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  </a>
+  <a href="https://nsic.dev" target="_blank"><b>🌐 NSIC.DEV</b></a> •  
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yung-megafone" />
 </div>
 
@@ -53,6 +53,7 @@
 
 ## 📫 How to Reach Me
 - 🎥 **YouTube**: [@yung-megafone](https://www.youtube.com/@yung-megafone)  
+- 🌐 **Website**: [NSIC.DEV](https://nsic.dev)  
 - ✉️ **GitHub Discussions** / Issues  
 
 Let's build something awesome! 🚀
