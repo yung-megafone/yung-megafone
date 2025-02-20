@@ -5,7 +5,6 @@
 ---
 
 <div align="center">
-  <a href="https://nsic.dev" target="_blank"><b>🌐 NSIC.DEV</b></a> •  
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yung-megafone" />
 </div>
 
