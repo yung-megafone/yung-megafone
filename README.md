@@ -5,7 +5,6 @@
 ---
 
 <div align="center">
-  <a href="https://www.youtube.com/@yung-megafone" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube Logo" />
   </a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yung-megafone" />
