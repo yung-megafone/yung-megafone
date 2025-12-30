@@ -53,7 +53,7 @@
 ## 📫 How to Reach Me
 - 🎥 **YouTube**: [@yung-megafone](https://www.youtube.com/@yung-megafone)
 - 📩 **Telegram**: [@yung_megafone](https://t.me/yung_megafone)  
-- 🌐 **Website**: [BSSPLY.co](https://bssply.co  
+- 🌐 **Website**: [BSSPLY.co](https://bssply.co)
 - ✉️ **GitHub Discussions** / Issues  
 
 Let's build something awesome! 🚀
