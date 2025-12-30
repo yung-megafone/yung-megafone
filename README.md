@@ -16,10 +16,10 @@
 
 - 📍 From **Chicago**, passionate about **technology and automation**.
 - 🔧 Hands-on learner, always looking to **build and optimize workflows**.
-- 💻 Currently learning **Python, JavaScript, and Computer Science**.
+- 💻 Currently learning **Python, JavaScript, and Networking**.
 - 📡 Interested in **radio communications, police scanners, and signal processing**.
-- 🚗 Enjoy working on **cars**, **photography**, and **gaming**.
-- 🎯 Focused on **scripting, problem-solving, and making tech more efficient**.
+- 🚗 Passions include **cars**, **photography**, and **gaming**.
+- 🎯 Focused on **scripting & problem-solving**.
 
 ---
 
@@ -43,17 +43,8 @@
 
 ---
 
-## 🚀 What I'm Working On
-🔹 **[ScriptLab](https://github.com/yung-megafone/ScriptLab)** – A collection of automation and filesystem tools.  
-🔹 Experimenting with **hardware-based automation & IoT projects**.  
-🔹 Building **workflow optimization scripts** to streamline daily tasks.  
-
----
-
 ## 📫 How to Reach Me
 - 🎥 **YouTube**: [@yung-megafone](https://www.youtube.com/@yung-megafone)
 - 📩 **Telegram**: [@yung_megafone](https://t.me/yung_megafone)  
 - 🌐 **Website**: [bssply.co](https://bssply.co)
 - ✉️ **GitHub Discussions** / Issues  
-
-Let's build something awesome! 🚀
