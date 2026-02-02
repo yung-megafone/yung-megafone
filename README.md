@@ -4,26 +4,47 @@
 
 ---
 
+<h1 align="center">Brando</h1>
+
+<p align="center">
+  Independent systems researcher · automation · archival infrastructure
+</p>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yung-megafone" />
 </div>
 
 ---
 
-<h1 align="center">Hey there! 👋</h1>
+## Overview
 
-## 👨‍💻 About Me
+I’m an independent, hands-on researcher based in Chicago with a focus on **automation, systems behavior, operational technology (OT), and long-term data preservation**.
 
-- 📍 From **Chicago**, passionate about **technology and automation**.
-- 🔧 Hands-on learner, always looking to **build and optimize workflows**.
-- 💻 Currently learning **Python, JavaScript, and Networking**.
-- 📡 Interested in **radio communications, police scanners, and signal processing**.
-- 🚗 Passions include **cars**, **photography**, and **gaming**.
-- 🎯 Focused on **scripting & problem-solving**.
+My work centers on understanding how systems operate at scale — where they fail, how information degrades or disappears over time, and how to design workflows that make data **durable, verifiable, and recoverable** rather than fragile or ephemeral.
+
+I’m particularly interested in preserving information that is at risk of being **lost, altered, or quietly removed**, as well as studying systems that are traditionally opaque or under-documented.
+
+I tend to learn by building and stress-testing real systems, especially where software, hardware, radio, and policy constraints intersect.
 
 ---
 
-## 🛠 Tech Stack & Tools
+## Areas of Focus
+
+- Applied scripting & automation  
+- Data hoarding & mass archiving  
+- Archival tooling & preservation workflows  
+- **Signals intelligence (SIGINT)** — signal capture, classification, and analysis in controlled environments  
+- **Operational Technology (OT) & industrial control concepts** — system behavior, reliability, and failure modes  
+- Networking & systems fundamentals  
+- Radio communications & signal analysis  
+- Embedded & small-scale hardware projects  
+- Technical research & documentation  
+
+---
+
+## Tools & Languages
+
+I work with a mixed, problem-driven stack rather than a fixed tech list:
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40" alt="Python" />
@@ -41,10 +62,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg" height="40" alt="Visual Basic" />
 </div>
 
+Tooling is selected based on **reliability, transparency, and long-term maintainability**.
+
 ---
 
-## 📫 How to Reach Me
-- 🎥 **YouTube**: [@yung-megafone](https://www.youtube.com/@yung-megafone)
-- 📩 **Telegram**: [@yung_megafone](https://t.me/yung_megafone)  
-- 🌐 **Website**: [bssply.co](https://bssply.co)
-- ✉️ **GitHub Discussions** / Issues  
+## Contact & Presence
+
+- **YouTube** — https://www.youtube.com/@yung-megafone  
+- **Telegram** — https://t.me/yung_megafone  
+- **Website** — https://bssply.co  
+- **GitHub** — issues & discussions are open for technical collaboration
