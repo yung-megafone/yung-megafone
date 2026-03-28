@@ -7,7 +7,7 @@
 <h1 align="center">Brando</h1>
 
 <p align="center">
-  Independent systems researcher · automation · archival infrastructure
+  Systems · Signals · Preservation
 </p>
 
 <div align="center">
@@ -70,5 +70,4 @@ Tooling is selected based on **reliability, transparency, and long-term maintain
 
 - **YouTube** — https://www.youtube.com/@yung-megafone  
 - **Telegram** — https://t.me/yung_megafone  
-- **Website** — https://bssply.co  
 - **GitHub** — issues & discussions are open for technical collaboration
