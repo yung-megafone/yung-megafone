@@ -33,8 +33,8 @@ I tend to learn by building and stress-testing real systems, especially where so
 - Applied scripting & automation  
 - Data hoarding & mass archiving  
 - Archival tooling & preservation workflows  
-- **Signals intelligence (SIGINT)** — signal capture, classification, and analysis in controlled environments  
-- **Operational Technology (OT) & industrial control concepts** — system behavior, reliability, and failure modes  
+- **Signals intelligence (SIGINT)**
+- **Operational Technology (OT) & industrial control concepts**
 - Networking & systems fundamentals  
 - Radio communications & signal analysis  
 - Embedded & small-scale hardware projects  
