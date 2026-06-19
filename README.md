@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="center">Brando</h1>
+<h1 align="center">yung-megafone</h1>
 
 <p align="center">
   Systems · Signals · Preservation
@@ -20,7 +20,7 @@
 
 I’m an independent, hands-on researcher based in Chicago with a focus on **automation, systems behavior, operational technology (OT), and long-term data preservation**.
 
-My work centers on understanding how systems operate at scale — where they fail, how information degrades or disappears over time, and how to design workflows that make data **durable, verifiable, and recoverable** rather than fragile or ephemeral.
+My work centers on understanding how systems operate at scale, where they fail, how information degrades or disappears over time, and how to design workflows that make data **durable, verifiable, and recoverable** rather than fragile or ephemeral.
 
 I’m particularly interested in preserving information that is at risk of being **lost, altered, or quietly removed**, as well as studying systems that are traditionally opaque or under-documented.
 
@@ -32,7 +32,6 @@ I tend to learn by building and stress-testing real systems, especially where so
 
 - Applied scripting & automation  
 - Data hoarding & mass archiving  
-- Archival tooling & preservation workflows  
 - **Signals intelligence (SIGINT)**
 - **Operational Technology (OT) & industrial control concepts**
 - Networking & systems fundamentals  
@@ -61,8 +60,6 @@ I work with a mixed, problem-driven stack rather than a fixed tech list:
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg" height="40" alt="Visual Basic" />
 </div>
-
-Tooling is selected based on **reliability, transparency, and long-term maintainability**.
 
 ---
 
