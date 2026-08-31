@@ -2,9 +2,9 @@
   <img height="150" src="https://avatars.githubusercontent.com/u/104199664" />
 </div>
 
----
-
-<h1 align="center">yung-megafone</h1>
+<h1 align="center">
+  yung-megafone
+</h1>
 
 <p align="center">
   Industrial Systems · RF · Surveillance Research · Data Preservation
@@ -14,148 +14,161 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yung-megafone" />
 </div>
 
----
+
 
 ## What I Do
 
-I work on projects at the intersection of **industrial automation, radio communications, surveillance infrastructure, software, and large-scale data preservation**.
+I build things, break things, document things, and collect unreasonable amounts of data.
 
-Most of what ends up here starts with a real system I want to understand.
+Most of the projects here started because I ran into a system I didn't completely understand and decided that was now my problem.
 
-That might mean reverse-engineering the behavior of an automated material-handling system, building a simulator for conveyor controls and failure modes, processing millions of radio recordings, mapping public-safety communications infrastructure, examining surveillance networks through public records, or building small hardware and software tools to collect and make sense of data.
+That has included industrial automation and conveyor controls, radio systems, surveillance infrastructure, public records, embedded hardware, simulators, mapping tools, and processing millions of scanner recordings because apparently keeping a reasonable amount of data wasn't an option.
 
-I'm less interested in technology as an abstract subject than in **how deployed systems actually behave:** what talks to what, what happens when something fails, what gets logged, what gets retained, and what can be reconstructed afterward.
+I'm mostly interested in systems that already exist in the real world.
 
----
+What talks to what? What happens when something fails? What gets logged? What gets retained? What does the documentation leave out? Can you reconstruct what happened afterward?
+
+That's usually where the rabbit hole starts.
+
+
 
 ## Industrial Automation & OT
 
-A major area of my work is **automated material handling and industrial control systems**.
+A lot of my current work revolves around automated material handling and industrial controls.
 
-Current interests include:
+Things I've been learning, documenting, or screwing around with include:
 
-* MDR and conventional conveyor systems
-* Zero-pressure accumulation (ZPA)
+* MDR and conventional conveyor
+* Zero-pressure accumulation
 * Metering and carton gapping
 * Sortation systems
-* Photoeyes, sensors, and field I/O
+* Photoeyes and field sensors
 * Motor controls and VFDs
-* PLC and ladder-logic fundamentals
-* AS-Interface and industrial networking
-* HMI / SCADA concepts
-* Fault propagation and root-cause analysis
-* Machine safety and LOTO concepts
+* PLC / ladder logic
+* AS-Interface
+* Industrial networking
+* HMI / SCADA
+* Fault propagation
+* Root-cause troubleshooting
+* Machine safety and LOTO
 
-I'm also developing a **warehouse engineering / controls simulator** built around realistic conveyor behavior, throughput constraints, equipment faults, maintenance, controls troubleshooting, and system expansion.
+I'm also building a warehouse/controls simulator based around actual conveyor behavior rather than treating the whole building like one magic belt that makes boxes disappear.
 
-The goal isn't just to simulate boxes moving on belts. It's to model the relationship between **mechanical systems, controls, sensors, failures, and operational decisions**.
+The idea is to model the ugly parts too: throughput limits, accumulation, jams, blocked photoeyes, bad motors, controls faults, maintenance, questionable operational decisions, and the cascading consequences of somebody "fixing" the wrong thing.
 
----
+Boxes moving around is the easy part.
+
+Figuring out why they stopped moving is more interesting.
+
+
 
 ## Radio & RF
 
-Radio is another long-running area of interest.
+I've been screwing around with radios for a long time.
 
-My work includes:
+Current projects involve:
 
-* DMR and conventional radio systems
-* Public-safety radio monitoring
-* SDR and RF experimentation
-* Radio-system architecture
+* DMR
+* Conventional radio
+* Public-safety monitoring
+* SDR
+* Radio system design
 * Talkgroup and subscriber analysis
-* Large-scale scanner recording
-* Signal and metadata analysis
-* Mapping radio infrastructure
-* Building searchable datasets from captured RF activity
+* Scanner recording
+* RF metadata
+* Infrastructure mapping
+* Building searchable RF datasets
 
-I maintain large collections of radio recordings and experiment with ways to turn otherwise unmanageable RF archives into **searchable, structured datasets**.
+I have an absurd amount of scanner audio.
 
-That includes transcription, metadata extraction, indexing, alias resolution, and tools for reconstructing activity across large numbers of recordings.
+Rather than accepting that I now own a gigantic pile of seven-second audio files that no human being could reasonably inspect, I've been working on ways to transcribe, index, tag, correlate, and search them.
 
----
+The eventual goal is being able to treat recorded RF activity like a dataset instead of a folder full of mystery WAV files.
 
-## Surveillance Infrastructure Research
 
-I research the technical infrastructure behind modern surveillance systems, particularly systems deployed across public space.
 
-Areas I've investigated include:
+## Surveillance Research
 
-* Automated license plate readers (ALPR/LPR)
+I spend a fair amount of time looking into surveillance infrastructure, especially systems deployed in public space.
+
+That has included:
+
+* ALPR/LPR systems
 * Camera networks
 * Shared surveillance networks
 * Public-safety data platforms
-* Device and vehicle tracking
+* Vehicle and device tracking
 * Sensor fusion
-* Inter-agency information sharing
-* Retention and access policies
+* Inter-agency data sharing
+* Retention policies
+* Access controls
 
-A large part of this work involves **public records research**: collecting contracts, policies, invoices, deployment records, network documentation, and agency correspondence and then connecting those records into a clearer picture of how a system actually operates.
+A lot of this research comes from public records.
 
-I'm particularly interested in the gap between how surveillance technology is marketed, how policy says it works, and **what the underlying technical architecture actually permits**.
+Contracts, invoices, policies, deployment records, maps, emails, manuals, procurement documents — whatever fills in another piece of the system.
 
----
+I'm less interested in what the sales brochure says the technology does than what was actually purchased, where it was installed, who can access it, where the data goes, and how long it sticks around.
 
-## Data Preservation & Archival
+Policy, marketing, and technical capability are not always the same thing.
 
-I archive things.
 
-Sometimes excessively.
 
-I'm interested in preserving datasets and technical information that would otherwise be temporary, difficult to search, quietly modified, or simply forgotten.
+## Data Preservation
 
-That includes:
+I archive shit.
 
-* RF recordings
-* Public records
-* Technical documentation
-* Government records
-* System metadata
-* Maps and geospatial datasets
-* Web resources
-* Research material
+A lot of shit.
 
-The objective isn't simply to accumulate files.
+RF recordings, public records, manuals, government documents, maps, metadata, web pages, datasets, research material, and anything else I think has a decent chance of disappearing six months before I need it.
 
-It's to make collected information **searchable, attributable, reproducible, and useful years after it was originally captured**.
+Storage is cheap.
 
----
+Realizing the only copy of some obscure technical document disappeared three years ago is annoying.
+
+The harder problem is making the resulting pile useful. A directory containing 1.5 million files technically qualifies as an archive, but it isn't a particularly good one.
+
+So a lot of my work eventually turns into indexing, metadata extraction, search, attribution, deduplication, and figuring out how to make something I collected today still understandable years from now.
+
+
 
 ## Things I Build
 
-Projects here tend to involve some combination of:
+Most of my projects are some mixture of software, hardware, and research that got sufficiently out of hand to require software and hardware.
 
 **Software**
 
-Python utilities, automation scripts, parsers, data-processing pipelines, web applications, search/indexing tools, simulators, mapping utilities, and internal systems.
+Python scripts, parsers, automation, data-processing pipelines, web apps, search tools, simulators, mapping utilities, and whatever small utility saves me from doing the same annoying thing 4,000 times.
 
 **Hardware**
 
-Radios, SDR equipment, embedded devices, Raspberry Pi / ESP-class hardware, sensors, antennas, and whatever else a project requires.
+Radios, SDRs, ESP-class boards, Raspberry Pis, sensors, antennas, embedded devices, and assorted electronics that seemed like a good idea when I ordered them...
 
 **Research Infrastructure**
 
-Archival workflows, public-records datasets, RF datasets, geospatial overlays, documentation, and tooling for turning fragmented information into something that can actually be analyzed.
+Public-records archives, RF datasets, maps, geospatial overlays, documentation, archival workflows, and tools for turning piles of unrelated information into slightly more organized piles of related information.
 
----
+
 
 ## Current Rabbit Holes
 
-* Industrial conveyor controls and automated material handling
+* Conveyor controls and automated material handling
 * Warehouse / controls simulation
-* DMR and public-safety radio systems
-* Large-scale RF transcription and indexing
-* ALPR and distributed surveillance networks
+* DMR, P25, and public-safety radio
+* Distributed surveillance systems
 * Public-records-driven infrastructure mapping
-* Passive sensing and network-as-sensor concepts
-* Embedded RF / detection projects
-* Long-term digital preservation
-* Building tools for datasets that have become too large to inspect manually
+* Passive sensing
+* Data fusion and de-anonymization
+* Digital preservation
+* Figuring out what to do when a dataset becomes too large to casually grep anymore
 
----
+This list is subject to change whenever I see something interesting and make the mistake of asking "how does that work?"
+
 
 ## Stack
 
-I don't really have a "stack." I use whatever gets the project working.
+I don't really have a stack.
+
+I use whatever gets the thing to do a thing.
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40" alt="Python" />
@@ -170,15 +183,16 @@ I don't really have a "stack." I use whatever gets the project working.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
 
----
 
 ## Philosophy
 
-**Observe the real system. Preserve the evidence. Build the tooling needed to understand it.**
+**Observe the system. Preserve the evidence. Figure out what the hell it's actually doing.**
 
-I like projects where the documentation is incomplete, the dataset is unreasonable, the system is opaque, or the obvious explanation doesn't quite account for what the system is actually doing.
+The projects I enjoy most tend to have at least one of the following:
 
-Those are usually the interesting ones.
+Incomplete documentation, an unreasonable amount of data, an opaque system, conflicting explanations, weird behavior nobody bothered documenting, or a perfectly reasonable explanation that stops being reasonable the second you look closely at it.
+
+Those are usually the fun ones.
 
 ---
 
