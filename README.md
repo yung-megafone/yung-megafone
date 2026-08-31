@@ -190,7 +190,6 @@ Incomplete documentation, an unreasonable amount of data, an opaque system, conf
 
 Those are usually the fun ones.
 
----
 
 ## Contact & Presence
 
