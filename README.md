@@ -10,11 +10,18 @@
   Industrial Systems · RF · Surveillance Research · Data Preservation
 </p>
 
+<br>
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yung-megafone" />
+
+  <a href="https://github-stats-extended.vercel.app/api?username=yung-megafone&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=yung-megafone&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent"
+      alt="GitHub Stats"
+    />
+  </a>
+
 </div>
-
-
 
 ## What I Do
 
@@ -170,18 +177,7 @@ I don't really have a stack.
 
 I use whatever gets the thing to do a thing.
 
-<div align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" height="40" alt="Godot" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" height="40" alt="Bash" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40" alt="Git" />
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=yung-megafone&layout=compact&hide_title=true&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=yung-megafone&layout=compact&hide_title=true&langs_count=6&theme=transparent)
 
 
 ## Philosophy
@@ -201,3 +197,14 @@ Those are usually the fun ones.
 * **YouTube** — https://www.youtube.com/@yung-megafone
 * **Telegram** — https://t.me/yung_megafone
 * **GitHub** — issues and discussions are open for technical collaboration
+
+---
+
+<div align="center">
+
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=yung-megafone&format=true&logo=github"
+    alt="Profile views"
+  />
+
+</div>
