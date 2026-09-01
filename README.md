@@ -191,12 +191,6 @@ Incomplete documentation, an unreasonable amount of data, an opaque system, conf
 Those are usually the fun ones.
 
 
-## Contact & Presence
-
-* **YouTube** — https://www.youtube.com/@yung-megafone
-* **Telegram** — https://t.me/yung_megafone
-* **GitHub** — issues and discussions are open for technical collaboration
-
 ---
 
 <div align="center">
